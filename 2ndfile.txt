@@ -1,0 +1,3 @@
+total 4
+-rw-rw-r-- 1 terto terto 1121 Apr 16 10:22 1stfile.txt
+-rw-rw-r-- 1 terto terto    0 Apr 16 10:28 2ndfile.txt
